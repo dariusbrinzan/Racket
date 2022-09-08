@@ -1,0 +1,1 @@
+("8.4" tarm64osx ("9cf060e069280fe1a9bd02618ff6ceff27fe9b21" . "2a58055f25bf2fb784d6185ab672416051b1eea1") #"/Users/brinzandarius/Desktop/SEM2/PP/etapa-3/ppt.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"srfi" #"1.rkt"))
